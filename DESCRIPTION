@@ -1,0 +1,13 @@
+Package: MUGAExampleData
+Type: Package
+Title: Example {M}ouse {U}niversal {G}enotyping {A}rray data for genome
+        reconstruction and quantitative trait locus mapping.
+Version: 0.99.2
+Date: 2013-10-02
+Author: Daniel Gatti <Dan.Gatti@jax.org>
+Maintainer: Daniel Gatti <Dan.Gatti@jax.org>
+Description: This package contains example data for the MUGA array that
+        is used by the R package DOQTL.
+biocViews: Experiment Data
+Depends: R (>= 2.10.0)
+License: GPL-3
