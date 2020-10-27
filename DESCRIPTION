@@ -2,7 +2,7 @@ Package: MUGAExampleData
 Type: Package
 Title: Example {M}ouse {U}niversal {G}enotyping {A}rray data for genome
         reconstruction and quantitative trait locus mapping.
-Version: 1.9.0
+Version: 1.10.0
 Date: 2013-10-02
 Author: Daniel Gatti <Dan.Gatti@jax.org>
 Maintainer: Daniel Gatti <Dan.Gatti@jax.org>
